@@ -1,6 +1,6 @@
 # muen / 夢魘
 ## usage
-befor use this program make sure that you already built darknet and opencv and installed CUDA toolkits/CUDNN.
+before use this program make sure that you already built darknet and opencv and installed CUDA toolkits/CUDNN.
 ```
 git clone https://github.com/k3174r0/muen.git
 cd muen
