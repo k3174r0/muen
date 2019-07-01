@@ -11,7 +11,7 @@ like set(DARKNET_PATH /path/to/darknet) -> set(DARKNET_PATH /home/k3174r0/darkne
 ```
 mkdir data && cd data
 wget https://github.com/pjreddie/darknet/blob/master/cfg/jnet-conv.cfg
-wget http://pjreddie.com/media/files/jnet-conv.weights
+wget https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/jnet-conv.cfg
 cd ..
 mkdir build && cd build
 cmake ..
