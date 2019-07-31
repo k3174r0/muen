@@ -1,4 +1,6 @@
 # muen / 夢魘
+ported from darknet's nightmare.
+you can use this as refer when you try to make independent app based on darknet.
 ## usage
 before use this program make sure that you already built darknet and opencv and installed CUDA toolkits/CUDNN.
 ```
